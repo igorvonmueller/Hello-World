@@ -5,4 +5,9 @@ body
     font-size: larger ;
     font: bold;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+a{
+    text-decoration: none;
+    color: black;
+    cursor: default;
 }
